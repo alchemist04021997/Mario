@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: a22a7c4021a75b0488cf41979c85145e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8379298780398477849
+    second: smb_enemies_ultragm2003 copy_0
+  - first:
+      213: 7419792018182114626
+    second: smb_enemies_ultragm2003 copy_1
+  - first:
+      213: -1757586156777659163
+    second: smb_enemies_ultragm2003 copy_2
+  - first:
+      213: -3476695395622560678
+    second: smb_enemies_ultragm2003 copy_3
+  - first:
+      213: -1810256814994175790
+    second: smb_enemies_ultragm2003 copy_4
+  - first:
+      213: 7750336990099446276
+    second: smb_enemies_ultragm2003 copy_5
+  - first:
+      213: 7838023781183122463
+    second: smb_enemies_ultragm2003 copy_6
+  - first:
+      213: 9129603875538758200
+    second: smb_enemies_ultragm2003 copy_7
+  - first:
+      213: -3673580541023598687
+    second: smb_enemies_ultragm2003 copy_8
+  - first:
+      213: -6324918582649820739
+    second: smb_enemies_ultragm2003 copy_9
+  - first:
+      213: 3444198513292289723
+    second: smb_enemies_ultragm2003 copy_10
+  - first:
+      213: -5774118824928563829
+    second: smb_enemies_ultragm2003 copy_11
+  - first:
+      213: 898238331761819564
+    second: smb_enemies_ultragm2003 copy_12
+  - first:
+      213: -2133864521090098662
+    second: smb_enemies_ultragm2003 copy_13
+  - first:
+      213: 1974317446221117448
+    second: smb_enemies_ultragm2003 copy_14
+  - first:
+      213: -901331147996254888
+    second: smb_enemies_ultragm2003 copy_15
+  - first:
+      213: -2611425692628482015
+    second: smb_enemies_ultragm2003 copy_16
+  - first:
+      213: 4960864925646683737
+    second: smb_enemies_ultragm2003 copy_17
+  - first:
+      213: -379432949325413107
+    second: smb_enemies_ultragm2003 copy_18
+  - first:
+      213: 3333247893119350222
+    second: smb_enemies_ultragm2003 copy_19
+  - first:
+      213: -1657919548829505834
+    second: smb_enemies_ultragm2003 copy_20
+  - first:
+      213: 3659594468017077485
+    second: smb_enemies_ultragm2003 copy_21
+  - first:
+      213: 14777274541149450
+    second: smb_enemies_ultragm2003 copy_22
+  - first:
+      213: 8919209236383255698
+    second: smb_enemies_ultragm2003 copy_23
+  - first:
+      213: 9103824884550383101
+    second: smb_enemies_ultragm2003 copy_24
+  - first:
+      213: 2924388694876653564
+    second: smb_enemies_ultragm2003 copy_25
+  - first:
+      213: 7773681913054325561
+    second: smb_enemies_ultragm2003 copy_26
+  - first:
+      213: -8886073822081468695
+    second: smb_enemies_ultragm2003 copy_27
+  - first:
+      213: 6978021449033715719
+    second: smb_enemies_ultragm2003 copy_28
+  - first:
+      213: -779264752384377490
+    second: smb_enemies_ultragm2003 copy_29
+  - first:
+      213: 7978128843734516295
+    second: smb_enemies_ultragm2003 copy_30
+  - first:
+      213: -6070963568321802716
+    second: smb_enemies_ultragm2003 copy_31
+  - first:
+      213: -7641641351298979257
+    second: smb_enemies_ultragm2003 copy_32
+  - first:
+      213: -4638394536455191170
+    second: smb_enemies_ultragm2003 copy_33
+  - first:
+      213: 4923420988194330694
+    second: smb_enemies_ultragm2003 copy_34
+  - first:
+      213: 629975155566172014
+    second: smb_enemies_ultragm2003 copy_35
+  - first:
+      213: -1901003861383309216
+    second: smb_enemies_ultragm2003 copy_36
+  - first:
+      213: -3518715150940350568
+    second: smb_enemies_ultragm2003 copy_37
+  - first:
+      213: 6950178295500589469
+    second: smb_enemies_ultragm2003 copy_38
+  - first:
+      213: 1923778835572354734
+    second: smb_enemies_ultragm2003 copy_39
+  - first:
+      213: -6729997956830546024
+    second: smb_enemies_ultragm2003 copy_40
+  - first:
+      213: -1988382997793809238
+    second: smb_enemies_ultragm2003 copy_41
+  - first:
+      213: -2718509418339876026
+    second: smb_enemies_ultragm2003 copy_42
+  - first:
+      213: -1805320313894435325
+    second: smb_enemies_ultragm2003 copy_43
+  - first:
+      213: -7724277703772031609
+    second: smb_enemies_ultragm2003 copy_44
+  - first:
+      213: -5834248733379008731
+    second: smb_enemies_ultragm2003 copy_45
+  - first:
+      213: -5426448226976629433
+    second: smb_enemies_ultragm2003 copy_46
+  - first:
+      213: -6120448782941844282
+    second: smb_enemies_ultragm2003 copy_47
+  - first:
+      213: 5893964588593833721
+    second: smb_enemies_ultragm2003 copy_48
+  - first:
+      213: -1545245013367403247
+    second: smb_enemies_ultragm2003 copy_49
+  - first:
+      213: 4443318907954099504
+    second: smb_enemies_ultragm2003 copy_50
+  - first:
+      213: -5156617665986767883
+    second: smb_enemies_ultragm2003 copy_51
+  - first:
+      213: -6739995401299906150
+    second: smb_enemies_ultragm2003 copy_52
+  - first:
+      213: 8109169030126488375
+    second: smb_enemies_ultragm2003 copy_53
+  - first:
+      213: 6116695440790013373
+    second: smb_enemies_ultragm2003 copy_54
+  - first:
+      213: 1267895499854697482
+    second: smb_enemies_ultragm2003 copy_55
+  - first:
+      213: -4781274837274815162
+    second: smb_enemies_ultragm2003 copy_56
+  - first:
+      213: 2443900559985970446
+    second: smb_enemies_ultragm2003 copy_57
+  - first:
+      213: -3343420337433748206
+    second: smb_enemies_ultragm2003 copy_58
+  - first:
+      213: -2716680426570872415
+    second: smb_enemies_ultragm2003 copy_59
+  - first:
+      213: 6639608064806848317
+    second: smb_enemies_ultragm2003 copy_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed1c779720c6bb80800000000000000
+      internalID: -8379298780398477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d060f578568f660800000000000000
+      internalID: 7419792018182114626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 181
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4af17d3bccb97e0800000000000000
+      internalID: -1757586156777659163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5eaf35fb40cfc0800000000000000
+      internalID: -3476695395622560678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 181
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ca06940da0e6e0800000000000000
+      internalID: -1810256814994175790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9270fd6abe8b60800000000000000
+      internalID: 7750336990099446276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ceb72f91146cc60800000000000000
+      internalID: 7838023781183122463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 180
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6485aa5ed2be70800000000000000
+      internalID: 9129603875538758200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 180
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7408e16f1d40dc0800000000000000
+      internalID: -3673580541023598687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 149
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e3e75f006938a0800000000000000
+      internalID: -6324918582649820739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb627b8bc404ccf20800000000000000
+      internalID: 3444198513292289723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dac3575853edfa0800000000000000
+      internalID: -5774118824928563829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf7d40f00f277c00800000000000000
+      internalID: 898238331761819564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 150
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9d95168df262e0800000000000000
+      internalID: -2133864521090098662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bdd7c14f266b10800000000000000
+      internalID: 1974317446221117448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d20baa814dd73f0800000000000000
+      internalID: -901331147996254888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280d812b2a52cbd0800000000000000
+      internalID: -2611425692628482015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 150
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7dd7bd5888d440800000000000000
+      internalID: 4960864925646683737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05416f2ebbfbbaf0800000000000000
+      internalID: -379432949325413107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 150
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b2b96c43124e20800000000000000
+      internalID: 3333247893119350222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 150
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d667d154f2edf8e0800000000000000
+      internalID: -1657919548829505834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 116
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec742087cd79c230800000000000000
+      internalID: 3659594468017077485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 115
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d06c75adf743000800000000000000
+      internalID: 14777274541149450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cc1046b8567cb70800000000000000
+      internalID: 8919209236383255698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5bcf49f78475e70800000000000000
+      internalID: 9103824884550383101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78a4f1604859820800000000000000
+      internalID: 2924388694876653564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6b70638aa1eb60800000000000000
+      internalID: 7773681913054325561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 116
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6bfe270f25ea480800000000000000
+      internalID: -8886073822081468695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 116
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70016b86989e6d060800000000000000
+      internalID: 6978021449033715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d752026de7f25f0800000000000000
+      internalID: -779264752384377490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 118
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420817d9e108be60800000000000000
+      internalID: 7978128843734516295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e47d9ccca9fbba0800000000000000
+      internalID: -6070963568321802716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 118
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a63ea9daf63f590800000000000000
+      internalID: -7641641351298979257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c97e8ebc11afb0800000000000000
+      internalID: -4638394536455191170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489609ad41835440800000000000000
+      internalID: 4923420988194330694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 80
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67d7d4f01f1eb800800000000000000
+      internalID: 629975155566172014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 87
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681a9d5f074e95e0800000000000000
+      internalID: -1901003861383309216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 89
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975a6296330b2fc0800000000000000
+      internalID: -3518715150940350568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 90
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9941fc065ef37060800000000000000
+      internalID: 6950178295500589469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 89
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae64b888a2a2ba10800000000000000
+      internalID: 1923778835572354734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 90
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897b20ce38e3a92a0800000000000000
+      internalID: -6729997956830546024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd21bc238d764e0800000000000000
+      internalID: -1988382997793809238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 89
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434c49561ae54ad0800000000000000
+      internalID: -2718509418339876026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 77
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30686805db632f6e0800000000000000
+      internalID: -1805320313894435325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b2387a5addc490800000000000000
+      internalID: -7724277703772031609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 49
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ebab20b5980fa0800000000000000
+      internalID: -5834248733379008731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 50
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d720f861261b4b0800000000000000
+      internalID: -5426448226976629433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 50
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc87ca624ccf0ba0800000000000000
+      internalID: -6120448782941844282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6edd5d0919bc150800000000000000
+      internalID: 5893964588593833721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dca4fe8df2e8ae0800000000000000
+      internalID: -1545245013367403247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035716c4107d9ad30800000000000000
+      internalID: 4443318907954099504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3da50cd830078b0800000000000000
+      internalID: -5156617665986767883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91b0cd74e9b672a0800000000000000
+      internalID: -6739995401299906150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc948c44e898070800000000000000
+      internalID: 8109169030126488375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54a83881ed2e450800000000000000
+      internalID: 6116695440790013373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 31
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d7215d38789110800000000000000
+      internalID: 1267895499854697482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 28
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64598b62edf75adb0800000000000000
+      internalID: -4781274837274815162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 30
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d87586c9a7ae120800000000000000
+      internalID: 2443900559985970446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd174dae8c991d0800000000000000
+      internalID: -3343420337433748206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a98cfdab896c4ad0800000000000000
+      internalID: -2716680426570872415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb_enemies_ultragm2003 copy_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3781a65b50a42c50800000000000000
+      internalID: 6639608064806848317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

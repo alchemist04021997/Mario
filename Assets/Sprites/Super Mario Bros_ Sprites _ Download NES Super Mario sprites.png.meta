@@ -1,0 +1,2232 @@
+fileFormatVersion: 2
+guid: 6b226e949c3533647955391df04c36ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791404825461704954
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_0
+  - first:
+      213: -5535097714844131153
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_1
+  - first:
+      213: 4738962804721610403
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_2
+  - first:
+      213: 2332911826157542024
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_3
+  - first:
+      213: 1097901510714896295
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_4
+  - first:
+      213: -6571075978354118427
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_5
+  - first:
+      213: -9041386939546304188
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_6
+  - first:
+      213: -6332469426464315295
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_7
+  - first:
+      213: 2603585557388247981
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_8
+  - first:
+      213: 639969308614812646
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_9
+  - first:
+      213: 6646407295281102930
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_10
+  - first:
+      213: -4889435790045929069
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_11
+  - first:
+      213: -4008537247038840302
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_12
+  - first:
+      213: -8828213154853110659
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_13
+  - first:
+      213: 1238642412552311196
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_14
+  - first:
+      213: 2370389024045994677
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_15
+  - first:
+      213: -6501227317918359305
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_16
+  - first:
+      213: 7060971887605012433
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_17
+  - first:
+      213: -6202037321228035905
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_18
+  - first:
+      213: 5246933311973277111
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_19
+  - first:
+      213: -3122922856167244649
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_20
+  - first:
+      213: 2536636780750959571
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_21
+  - first:
+      213: -3831104950291744058
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_22
+  - first:
+      213: -9158427737404336995
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_23
+  - first:
+      213: 1086026780065217968
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_24
+  - first:
+      213: -8118549204420193069
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_25
+  - first:
+      213: -8804563983231537770
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_26
+  - first:
+      213: 2109053461714457229
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_27
+  - first:
+      213: 1950761233811198720
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_28
+  - first:
+      213: -977408194479047663
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_29
+  - first:
+      213: -8919262593823778936
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_30
+  - first:
+      213: -174291590601870666
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_31
+  - first:
+      213: -1174872870901659876
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_32
+  - first:
+      213: -2170410001371684694
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_33
+  - first:
+      213: 6379121105976810882
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_34
+  - first:
+      213: -6766723524367591113
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_35
+  - first:
+      213: -1444568692620847169
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_36
+  - first:
+      213: 6143490625922602423
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_37
+  - first:
+      213: 6817891062552329477
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_38
+  - first:
+      213: -108648813191033455
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_39
+  - first:
+      213: 693622463953492527
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_40
+  - first:
+      213: 2096114262737093568
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_41
+  - first:
+      213: -1171369542376325238
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_42
+  - first:
+      213: -8748922179205139742
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_43
+  - first:
+      213: 5683475607093186788
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_44
+  - first:
+      213: -4748075458046679449
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_45
+  - first:
+      213: 7284796723684643603
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_46
+  - first:
+      213: 5188541969390728432
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_47
+  - first:
+      213: 4961604757800216250
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_48
+  - first:
+      213: -6256300757091816281
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_49
+  - first:
+      213: 6199738862322402737
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_50
+  - first:
+      213: -6742306267511811015
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_51
+  - first:
+      213: 4811451846989814228
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_52
+  - first:
+      213: 5152017126078581153
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_53
+  - first:
+      213: 8091437060064366746
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_54
+  - first:
+      213: -7844852352973508683
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_55
+  - first:
+      213: 598725205611924299
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_56
+  - first:
+      213: -6584877993282601326
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_57
+  - first:
+      213: -983400150655250490
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_58
+  - first:
+      213: -3455590746749635608
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_59
+  - first:
+      213: 7253191210833878586
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_60
+  - first:
+      213: 8121545637206496330
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_61
+  - first:
+      213: 6387161107639842788
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_62
+  - first:
+      213: 340634179123539758
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_63
+  - first:
+      213: -1006556914236962139
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_64
+  - first:
+      213: -8470956254710873072
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_65
+  - first:
+      213: -2167278885267300387
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_66
+  - first:
+      213: 6541088465347536650
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_67
+  - first:
+      213: -7586558902211975815
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_68
+  - first:
+      213: 1313553228738170795
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_69
+  - first:
+      213: -6015029316104776421
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_70
+  - first:
+      213: -169564787560660086
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_71
+  - first:
+      213: -4906684252814793968
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_72
+  - first:
+      213: -3723172876425499835
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_73
+  - first:
+      213: -5798094389485086688
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_74
+  - first:
+      213: -5419644438030506691
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_75
+  - first:
+      213: -1474561654731887582
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_76
+  - first:
+      213: -5789529567857100823
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_77
+  - first:
+      213: 3329769922641340345
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_78
+  - first:
+      213: -3522437296968746437
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_79
+  - first:
+      213: -4204318556640096890
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_80
+  - first:
+      213: -5945192904906041322
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_81
+  - first:
+      213: -8496230699248977424
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_82
+  - first:
+      213: -5868403096818979296
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_83
+  - first:
+      213: 6071125892248399943
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_84
+  - first:
+      213: 8123937684851455726
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_85
+  - first:
+      213: 220894425109598588
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_86
+  - first:
+      213: -4429767946455286434
+    second: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 172
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c02c21043f5050800000000000000
+      internalID: 5791404825461704954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a3ad54f16f23b0800000000000000
+      internalID: -5535097714844131153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 172
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6833109d24c140800000000000000
+      internalID: 4738962804721610403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 172
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9d6212fa206020800000000000000
+      internalID: 2332911826157542024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 173
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa6886b978c3f00800000000000000
+      internalID: 1097901510714896295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b9167639dec4a0800000000000000
+      internalID: -6571075978354118427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 172
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418c775b7a868280800000000000000
+      internalID: -9041386939546304188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 173
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a2948b9c8e18a0800000000000000
+      internalID: -6332469426464315295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 172
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3c672254bc12420800000000000000
+      internalID: 2603585557388247981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3632b02b0a1e800800000000000000
+      internalID: 639969308614812646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 172
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2508bcb8838cc3c50800000000000000
+      internalID: 6646407295281102930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 172
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912b36ed0c352cb0800000000000000
+      internalID: -4889435790045929069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e359ac90de58c0800000000000000
+      internalID: -4008537247038840302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cbc87d8e2eb7580800000000000000
+      internalID: -8828213154853110659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 142
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d9eb26ba803110800000000000000
+      internalID: 1238642412552311196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 143
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b21fbd224055e020800000000000000
+      internalID: 2370389024045994677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02967033007c5a0800000000000000
+      internalID: -6501227317918359305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d757b9658c9df160800000000000000
+      internalID: 7060971887605012433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8dc788aefede9a0800000000000000
+      internalID: -6202037321228035905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 143
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb45c3c0ad0d840800000000000000
+      internalID: 5246933311973277111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 143
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf331553629a4d0800000000000000
+      internalID: -3122922856167244649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f9d066b1f33320800000000000000
+      internalID: 2536636780750959571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cabe94885e25dac0800000000000000
+      internalID: -3831104950291744058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 143
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941eea0f7ab6e080800000000000000
+      internalID: -9158427737404336995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 143
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd395a3a97521f00800000000000000
+      internalID: 1086026780065217968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 142
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41103338e155f80800000000000000
+      internalID: -8118549204420193069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2941b4b7efc580800000000000000
+      internalID: -8804563983231537770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825ccdf2fcd44d10800000000000000
+      internalID: 2109053461714457229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035beea10f721b10800000000000000
+      internalID: 1950761233811198720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 105
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3587fc6c8f62f0800000000000000
+      internalID: -977408194479047663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88754bc5de9683480800000000000000
+      internalID: -8919262593823778936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b276d6c8bac49df0800000000000000
+      internalID: -174291590601870666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c9a1495302bfe0800000000000000
+      internalID: -1174872870901659876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa029436a9721e1e0800000000000000
+      internalID: -2170410001371684694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd1fc09d0378850800000000000000
+      internalID: 6379121105976810882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7395ac46ec4c712a0800000000000000
+      internalID: -6766723524367591113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 105
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb71fae7d6cd3fbe0800000000000000
+      internalID: -1444568692620847169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51f07bc20124550800000000000000
+      internalID: 6143490625922602423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 104
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dfdb47cc30e9e50800000000000000
+      internalID: 6817891062552329477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 109
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0b74ea700e7ef0800000000000000
+      internalID: -108648813191033455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2add2cb4fd30a900800000000000000
+      internalID: 693622463953492527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30317f0d4e61d10800000000000000
+      internalID: 2096114262737093568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 70
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f72fd7b957ebfe0800000000000000
+      internalID: -1171369542376325238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f0fcb1a5959680800000000000000
+      internalID: -8748922179205139742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0136ac3f2cfde40800000000000000
+      internalID: 5683475607093186788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a06cf6827b1eb0800000000000000
+      internalID: -4748075458046679449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131720160cc81560800000000000000
+      internalID: 7284796723684643603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47dbb5e67610840800000000000000
+      internalID: 5188541969390728432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e1905d392bd440800000000000000
+      internalID: 4961604757800216250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_49
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace885db972d29a0800000000000000
+      internalID: -6256300757091816281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b549ecc5a5e90650800000000000000
+      internalID: 6199738862322402737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93491160c248e62a0800000000000000
+      internalID: -6742306267511811015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_52
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d999b176f5b5c240800000000000000
+      internalID: 4811451846989814228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_53
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 70
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a984a49744af7740800000000000000
+      internalID: 5152017126078581153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_54
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 72
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905197c22f8a4070800000000000000
+      internalID: 8091437060064366746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 70
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf60a9495c712390800000000000000
+      internalID: -7844852352973508683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b429ef6691f4800800000000000000
+      internalID: 598725205611924299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7a117a50dd94a0800000000000000
+      internalID: -6584877993282601326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc024f5c24a52f0800000000000000
+      internalID: -983400150655250490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_59
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 35
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37cda36864b00d0800000000000000
+      internalID: -3455590746749635608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1db92af288a460800000000000000
+      internalID: 7253191210833878586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4411dc2ab685b070800000000000000
+      internalID: 8121545637206496330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73010df21c3a850800000000000000
+      internalID: 6387161107639842788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe30d2bfc2ab400800000000000000
+      internalID: 340634179123539758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa41b8c1ddf702f0800000000000000
+      internalID: -1006556914236962139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c51ada2e117a80800000000000000
+      internalID: -8470956254710873072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf107a26574ce1e0800000000000000
+      internalID: -2167278885267300387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e1759d4d96ca50800000000000000
+      internalID: 6541088465347536650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 35
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e31eafd027b690800000000000000
+      internalID: -7586558902211975815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf8188b3bdaa3210800000000000000
+      internalID: 1313553228738170795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_70
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 34
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15930cb4b2568ca0800000000000000
+      internalID: -6015029316104776421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 39
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83480f59b595adf0800000000000000
+      internalID: -169564787560660086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a8f53ba4f7ebb0800000000000000
+      internalID: -4906684252814793968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be94fbef1a45cc0800000000000000
+      internalID: -3723172876425499835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285e845fd7098fa0800000000000000
+      internalID: -5798094389485086688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35254e191e89c4b0800000000000000
+      internalID: -5419644438030506691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2b42dcfd498be0800000000000000
+      internalID: -1474561654731887582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b143488577afa0800000000000000
+      internalID: -5789529567857100823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b721de4a18b53e20800000000000000
+      internalID: 3329769922641340345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a379ae0f9cd1fc0800000000000000
+      internalID: -3522437296968746437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_80
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d42e45c8247a5c0800000000000000
+      internalID: -4204318556640096890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_81
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61817ed4d8e6e7da0800000000000000
+      internalID: -5945192904906041322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_82
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fe79a133571a80800000000000000
+      internalID: -8496230699248977424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e6d4fb97e3f8ea0800000000000000
+      internalID: -5868403096818979296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_84
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740742235d8f04450800000000000000
+      internalID: 6071125892248399943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6fafa28460eb070800000000000000
+      internalID: 8123937684851455726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71958d2f46c01300800000000000000
+      internalID: 220894425109598588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Bros_ Sprites _ Download NES Super Mario sprites_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dfe1ac58d4682c0800000000000000
+      internalID: -4429767946455286434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

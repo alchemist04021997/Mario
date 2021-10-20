@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: e350afbb90795684eb1a2daee00a0aaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1629636753994204241
+    second: smb1_scenery_sprites_0
+  - first:
+      213: 7681238029569350091
+    second: smb1_scenery_sprites_1
+  - first:
+      213: 4846980401500345663
+    second: smb1_scenery_sprites_2
+  - first:
+      213: 3322137370594888445
+    second: smb1_scenery_sprites_3
+  - first:
+      213: -1470158888956618015
+    second: smb1_scenery_sprites_4
+  - first:
+      213: 8027257023138595672
+    second: smb1_scenery_sprites_5
+  - first:
+      213: 8910304699932817886
+    second: smb1_scenery_sprites_6
+  - first:
+      213: -3692804056313400051
+    second: smb1_scenery_sprites_7
+  - first:
+      213: 4736220202341415139
+    second: smb1_scenery_sprites_8
+  - first:
+      213: -5303904159967512420
+    second: smb1_scenery_sprites_9
+  - first:
+      213: -1281958531345569432
+    second: smb1_scenery_sprites_10
+  - first:
+      213: -6317900208856374933
+    second: smb1_scenery_sprites_11
+  - first:
+      213: -4068800592216833612
+    second: smb1_scenery_sprites_12
+  - first:
+      213: -1060950658380463528
+    second: smb1_scenery_sprites_13
+  - first:
+      213: 1075863000275325826
+    second: smb1_scenery_sprites_14
+  - first:
+      213: 820070902678092784
+    second: smb1_scenery_sprites_15
+  - first:
+      213: 924801450490110109
+    second: smb1_scenery_sprites_16
+  - first:
+      213: -5375404677024402444
+    second: smb1_scenery_sprites_17
+  - first:
+      213: 7996753463365762019
+    second: smb1_scenery_sprites_18
+  - first:
+      213: 4382185158543376570
+    second: smb1_scenery_sprites_19
+  - first:
+      213: -5311103209385129350
+    second: smb1_scenery_sprites_20
+  - first:
+      213: -5386261138312470674
+    second: smb1_scenery_sprites_21
+  - first:
+      213: 3931761639964787793
+    second: smb1_scenery_sprites_22
+  - first:
+      213: -1685690041525857108
+    second: smb1_scenery_sprites_23
+  - first:
+      213: 1273775813494839259
+    second: smb1_scenery_sprites_24
+  - first:
+      213: -8278144321494377755
+    second: smb1_scenery_sprites_25
+  - first:
+      213: -2900743093714226857
+    second: smb1_scenery_sprites_26
+  - first:
+      213: -4534758703633287236
+    second: smb1_scenery_sprites_27
+  - first:
+      213: -9135909510632379325
+    second: smb1_scenery_sprites_28
+  - first:
+      213: 4430819913701081108
+    second: smb1_scenery_sprites_29
+  - first:
+      213: 7292412152078886819
+    second: smb1_scenery_sprites_30
+  - first:
+      213: -8455404453803760748
+    second: smb1_scenery_sprites_31
+  - first:
+      213: -341906930354512486
+    second: smb1_scenery_sprites_32
+  - first:
+      213: 1532178990751213610
+    second: smb1_scenery_sprites_33
+  - first:
+      213: 7279003483121660851
+    second: smb1_scenery_sprites_34
+  - first:
+      213: -835659720198146848
+    second: smb1_scenery_sprites_35
+  - first:
+      213: 3453851043090476515
+    second: smb1_scenery_sprites_36
+  - first:
+      213: -843198184410514976
+    second: smb1_scenery_sprites_37
+  - first:
+      213: 76494750592381809
+    second: smb1_scenery_sprites_38
+  - first:
+      213: 7163505785700447120
+    second: smb1_scenery_sprites_39
+  - first:
+      213: -1311358159314114660
+    second: smb1_scenery_sprites_40
+  - first:
+      213: 4620676155940725933
+    second: smb1_scenery_sprites_41
+  - first:
+      213: -5143486241026913312
+    second: smb1_scenery_sprites_42
+  - first:
+      213: 7266287654721999010
+    second: smb1_scenery_sprites_43
+  - first:
+      213: -5171280048050049157
+    second: smb1_scenery_sprites_44
+  - first:
+      213: 1170063063717120743
+    second: smb1_scenery_sprites_45
+  - first:
+      213: -7302635082850023008
+    second: smb1_scenery_sprites_46
+  - first:
+      213: -8592245365813083579
+    second: smb1_scenery_sprites_47
+  - first:
+      213: -8607033835657645405
+    second: smb1_scenery_sprites_48
+  - first:
+      213: 4860808560233174933
+    second: smb1_scenery_sprites_49
+  - first:
+      213: 116396675918393681
+    second: smb1_scenery_sprites_50
+  - first:
+      213: 5689229707374158071
+    second: smb1_scenery_sprites_51
+  - first:
+      213: 832320292446652603
+    second: smb1_scenery_sprites_52
+  - first:
+      213: 4568864306163826493
+    second: smb1_scenery_sprites_53
+  - first:
+      213: 8476231046644960158
+    second: smb1_scenery_sprites_54
+  - first:
+      213: 8444710620664572368
+    second: smb1_scenery_sprites_55
+  - first:
+      213: -7907246541057728987
+    second: smb1_scenery_sprites_56
+  - first:
+      213: -1502773650034904079
+    second: smb1_scenery_sprites_57
+  - first:
+      213: 4257635405066203375
+    second: smb1_scenery_sprites_58
+  - first:
+      213: -1211228725666958409
+    second: smb1_scenery_sprites_59
+  - first:
+      213: -272883709139669489
+    second: smb1_scenery_sprites_60
+  - first:
+      213: -5068590734659847554
+    second: smb1_scenery_sprites_61
+  - first:
+      213: 5288299068076859383
+    second: smb1_scenery_sprites_62
+  - first:
+      213: -7061244693249762559
+    second: smb1_scenery_sprites_63
+  - first:
+      213: -6313945398509186786
+    second: smb1_scenery_sprites_64
+  - first:
+      213: -5563156588006493507
+    second: smb1_scenery_sprites_65
+  - first:
+      213: 8651021984914825312
+    second: smb1_scenery_sprites_66
+  - first:
+      213: -1027324400368861343
+    second: smb1_scenery_sprites_67
+  - first:
+      213: -4063759799788905008
+    second: smb1_scenery_sprites_68
+  - first:
+      213: -7660626485746835502
+    second: smb1_scenery_sprites_69
+  - first:
+      213: -3153113131612684160
+    second: smb1_scenery_sprites_70
+  - first:
+      213: 8274873951878894281
+    second: smb1_scenery_sprites_71
+  - first:
+      213: 5189553843069803185
+    second: smb1_scenery_sprites_72
+  - first:
+      213: -2416623014923149077
+    second: smb1_scenery_sprites_73
+  - first:
+      213: -4564784219043690640
+    second: smb1_scenery_sprites_74
+  - first:
+      213: 3759011514459670749
+    second: smb1_scenery_sprites_75
+  - first:
+      213: -7320818014840783144
+    second: smb1_scenery_sprites_76
+  - first:
+      213: 640603304299048406
+    second: smb1_scenery_sprites_77
+  - first:
+      213: 4819091579127581158
+    second: smb1_scenery_sprites_78
+  - first:
+      213: 8794826009449733971
+    second: smb1_scenery_sprites_79
+  - first:
+      213: 7672559217274930351
+    second: smb1_scenery_sprites_80
+  - first:
+      213: 7447025356732849810
+    second: smb1_scenery_sprites_81
+  - first:
+      213: 5181484481612461692
+    second: smb1_scenery_sprites_82
+  - first:
+      213: 318035626285532399
+    second: smb1_scenery_sprites_83
+  - first:
+      213: 2592573443824294307
+    second: smb1_scenery_sprites_84
+  - first:
+      213: -8001597786798697862
+    second: smb1_scenery_sprites_85
+  - first:
+      213: 8795739940371584329
+    second: smb1_scenery_sprites_86
+  - first:
+      213: 4668657831281034888
+    second: smb1_scenery_sprites_87
+  - first:
+      213: 3268038833819952484
+    second: smb1_scenery_sprites_88
+  - first:
+      213: -9222517024145022276
+    second: smb1_scenery_sprites_89
+  - first:
+      213: 7576576576635313251
+    second: smb1_scenery_sprites_90
+  - first:
+      213: 1374903010857904182
+    second: smb1_scenery_sprites_91
+  - first:
+      213: -8195818568189457525
+    second: smb1_scenery_sprites_92
+  - first:
+      213: -6037108944147091337
+    second: smb1_scenery_sprites_93
+  - first:
+      213: 5136810228525203184
+    second: smb1_scenery_sprites_94
+  - first:
+      213: 8481578366436929379
+    second: smb1_scenery_sprites_95
+  - first:
+      213: 429492220761963687
+    second: smb1_scenery_sprites_96
+  - first:
+      213: -4063035591504068561
+    second: smb1_scenery_sprites_97
+  - first:
+      213: -655712655726334788
+    second: smb1_scenery_sprites_98
+  - first:
+      213: -6464050467410499428
+    second: smb1_scenery_sprites_99
+  - first:
+      213: -9098350188277690070
+    second: smb1_scenery_sprites_100
+  - first:
+      213: 5801341241105494125
+    second: smb1_scenery_sprites_101
+  - first:
+      213: -1383350127670492002
+    second: smb1_scenery_sprites_102
+  - first:
+      213: -3822384657426959994
+    second: smb1_scenery_sprites_103
+  - first:
+      213: 8719800842674511485
+    second: smb1_scenery_sprites_104
+  - first:
+      213: -2836433934050301144
+    second: smb1_scenery_sprites_105
+  - first:
+      213: 172349633596217571
+    second: smb1_scenery_sprites_106
+  - first:
+      213: -579946488774517049
+    second: smb1_scenery_sprites_107
+  - first:
+      213: 3561377731274542945
+    second: smb1_scenery_sprites_108
+  - first:
+      213: 1251632822715343447
+    second: smb1_scenery_sprites_109
+  - first:
+      213: 6111512484303265193
+    second: smb1_scenery_sprites_110
+  - first:
+      213: 3716221850131427479
+    second: smb1_scenery_sprites_111
+  - first:
+      213: 807519828860432313
+    second: smb1_scenery_sprites_112
+  - first:
+      213: 2790812166597032628
+    second: smb1_scenery_sprites_113
+  - first:
+      213: -1844620953153916659
+    second: smb1_scenery_sprites_114
+  - first:
+      213: -5304427048254347280
+    second: smb1_scenery_sprites_115
+  - first:
+      213: 5891713067364110107
+    second: smb1_scenery_sprites_116
+  - first:
+      213: -4729022489746659354
+    second: smb1_scenery_sprites_117
+  - first:
+      213: -5204470466509779976
+    second: smb1_scenery_sprites_118
+  - first:
+      213: -9049245869187386903
+    second: smb1_scenery_sprites_119
+  - first:
+      213: 4909067621030821254
+    second: smb1_scenery_sprites_120
+  - first:
+      213: 3527372093248843556
+    second: smb1_scenery_sprites_121
+  - first:
+      213: 242905997346796525
+    second: smb1_scenery_sprites_122
+  - first:
+      213: -2750886976771563763
+    second: smb1_scenery_sprites_123
+  - first:
+      213: -2812885933867548892
+    second: smb1_scenery_sprites_124
+  - first:
+      213: 1974948987478443333
+    second: smb1_scenery_sprites_125
+  - first:
+      213: 1615499222258713373
+    second: smb1_scenery_sprites_126
+  - first:
+      213: 3307718087576164063
+    second: smb1_scenery_sprites_127
+  - first:
+      213: 935057355088168031
+    second: smb1_scenery_sprites_128
+  - first:
+      213: -1804548216336724601
+    second: smb1_scenery_sprites_129
+  - first:
+      213: -4366339930210586940
+    second: smb1_scenery_sprites_130
+  - first:
+      213: 2483726593840176094
+    second: smb1_scenery_sprites_131
+  - first:
+      213: 8903550348004018035
+    second: smb1_scenery_sprites_132
+  - first:
+      213: -2436188987593223291
+    second: smb1_scenery_sprites_133
+  - first:
+      213: -1714647476961144999
+    second: smb1_scenery_sprites_134
+  - first:
+      213: -6932034140781342501
+    second: smb1_scenery_sprites_135
+  - first:
+      213: 6188976078689388162
+    second: smb1_scenery_sprites_136
+  - first:
+      213: -302118144841329992
+    second: smb1_scenery_sprites_137
+  - first:
+      213: -6560222204780797584
+    second: smb1_scenery_sprites_138
+  - first:
+      213: -8399841200309661595
+    second: smb1_scenery_sprites_139
+  - first:
+      213: 1264786856532146427
+    second: smb1_scenery_sprites_140
+  - first:
+      213: 5282100201425279062
+    second: smb1_scenery_sprites_141
+  - first:
+      213: -5916316533201669949
+    second: smb1_scenery_sprites_142
+  - first:
+      213: -1891100725956836939
+    second: smb1_scenery_sprites_143
+  - first:
+      213: -2075080804979923484
+    second: smb1_scenery_sprites_144
+  - first:
+      213: -2507681681497236028
+    second: smb1_scenery_sprites_145
+  - first:
+      213: -8263376812313663181
+    second: smb1_scenery_sprites_146
+  - first:
+      213: 7590728962422769740
+    second: smb1_scenery_sprites_147
+  - first:
+      213: -5657577976351805289
+    second: smb1_scenery_sprites_148
+  - first:
+      213: -3200442111361786617
+    second: smb1_scenery_sprites_149
+  - first:
+      213: 2161032571960346853
+    second: smb1_scenery_sprites_150
+  - first:
+      213: 2292846110516233508
+    second: smb1_scenery_sprites_151
+  - first:
+      213: -4926876180294366683
+    second: smb1_scenery_sprites_152
+  - first:
+      213: 1614050511085046706
+    second: smb1_scenery_sprites_153
+  - first:
+      213: 7457574922270731396
+    second: smb1_scenery_sprites_154
+  - first:
+      213: 3572038701579432955
+    second: smb1_scenery_sprites_155
+  - first:
+      213: -4778170142931612474
+    second: smb1_scenery_sprites_156
+  - first:
+      213: -2468450878776456967
+    second: smb1_scenery_sprites_157
+  - first:
+      213: -8507243163011146483
+    second: smb1_scenery_sprites_158
+  - first:
+      213: -716388399443895806
+    second: smb1_scenery_sprites_159
+  - first:
+      213: 1114078523752113137
+    second: smb1_scenery_sprites_160
+  - first:
+      213: -5768269017619065572
+    second: smb1_scenery_sprites_161
+  - first:
+      213: 6313839005328903721
+    second: smb1_scenery_sprites_162
+  - first:
+      213: -723048818819224843
+    second: smb1_scenery_sprites_163
+  - first:
+      213: -1272966638946500196
+    second: smb1_scenery_sprites_164
+  - first:
+      213: -1709267001740077166
+    second: smb1_scenery_sprites_165
+  - first:
+      213: 4370779133657500393
+    second: smb1_scenery_sprites_166
+  - first:
+      213: -2027415609834630233
+    second: smb1_scenery_sprites_167
+  - first:
+      213: 8327520662856641173
+    second: smb1_scenery_sprites_168
+  - first:
+      213: -7928009518058901310
+    second: smb1_scenery_sprites_169
+  - first:
+      213: 3555649905100237176
+    second: smb1_scenery_sprites_170
+  - first:
+      213: 8699191299784120443
+    second: smb1_scenery_sprites_171
+  - first:
+      213: -866653490868093762
+    second: smb1_scenery_sprites_172
+  - first:
+      213: 583646614279329921
+    second: smb1_scenery_sprites_173
+  - first:
+      213: 5465688948875445179
+    second: smb1_scenery_sprites_174
+  - first:
+      213: 4267257226143933963
+    second: smb1_scenery_sprites_175
+  - first:
+      213: 8932779765769796878
+    second: smb1_scenery_sprites_176
+  - first:
+      213: -8906097823519291479
+    second: smb1_scenery_sprites_177
+  - first:
+      213: 1686373632540375497
+    second: smb1_scenery_sprites_178
+  - first:
+      213: -4886080796059760190
+    second: smb1_scenery_sprites_179
+  - first:
+      213: 2920270015027418336
+    second: smb1_scenery_sprites_180
+  - first:
+      213: -474037084758045876
+    second: smb1_scenery_sprites_181
+  - first:
+      213: 261759575690277688
+    second: smb1_scenery_sprites_182
+  - first:
+      213: -2417875620187995446
+    second: smb1_scenery_sprites_183
+  - first:
+      213: -4433707693981374614
+    second: smb1_scenery_sprites_184
+  - first:
+      213: 9172319903224681669
+    second: smb1_scenery_sprites_185
+  - first:
+      213: 2754767457510450853
+    second: smb1_scenery_sprites_186
+  - first:
+      213: 5090154482652543367
+    second: smb1_scenery_sprites_187
+  - first:
+      213: -4074646989624105065
+    second: smb1_scenery_sprites_188
+  - first:
+      213: 8107623898447308129
+    second: smb1_scenery_sprites_189
+  - first:
+      213: 2772714743363563609
+    second: smb1_scenery_sprites_190
+  - first:
+      213: -4817212822314548961
+    second: smb1_scenery_sprites_191
+  - first:
+      213: 3435802716216793637
+    second: smb1_scenery_sprites_192
+  - first:
+      213: 3068842811376825967
+    second: smb1_scenery_sprites_193
+  - first:
+      213: 7461871978815869979
+    second: smb1_scenery_sprites_194
+  - first:
+      213: 4301798316406231886
+    second: smb1_scenery_sprites_195
+  - first:
+      213: 7394415458112080791
+    second: smb1_scenery_sprites_196
+  - first:
+      213: -2965155403475893135
+    second: smb1_scenery_sprites_197
+  - first:
+      213: 7994694516201055943
+    second: smb1_scenery_sprites_198
+  - first:
+      213: 1707300261011063118
+    second: smb1_scenery_sprites_199
+  - first:
+      213: -2886517724223860858
+    second: smb1_scenery_sprites_200
+  - first:
+      213: 7020990659827441233
+    second: smb1_scenery_sprites_201
+  - first:
+      213: 3582141312973345520
+    second: smb1_scenery_sprites_202
+  - first:
+      213: -4924928398695572970
+    second: smb1_scenery_sprites_203
+  - first:
+      213: -9032867580208527947
+    second: smb1_scenery_sprites_204
+  - first:
+      213: -6841048365974871498
+    second: smb1_scenery_sprites_205
+  - first:
+      213: 1923761277917708468
+    second: smb1_scenery_sprites_206
+  - first:
+      213: -2377521899669583347
+    second: smb1_scenery_sprites_207
+  - first:
+      213: -426246175357182075
+    second: smb1_scenery_sprites_208
+  - first:
+      213: -8474410832110050168
+    second: smb1_scenery_sprites_209
+  - first:
+      213: 1898094640887609581
+    second: smb1_scenery_sprites_210
+  - first:
+      213: -3791157438310773249
+    second: smb1_scenery_sprites_211
+  - first:
+      213: 7135987773190084480
+    second: smb1_scenery_sprites_212
+  - first:
+      213: -5698503325317721046
+    second: smb1_scenery_sprites_213
+  - first:
+      213: 1980670540235783760
+    second: smb1_scenery_sprites_214
+  - first:
+      213: 1311285443846460215
+    second: smb1_scenery_sprites_215
+  - first:
+      213: -2586186732639976248
+    second: smb1_scenery_sprites_216
+  - first:
+      213: -3794257796299553143
+    second: smb1_scenery_sprites_217
+  - first:
+      213: -5482096667702724228
+    second: smb1_scenery_sprites_218
+  - first:
+      213: -9024298857932558098
+    second: smb1_scenery_sprites_219
+  - first:
+      213: 3636724648196186547
+    second: smb1_scenery_sprites_220
+  - first:
+      213: 2499276721277503851
+    second: smb1_scenery_sprites_221
+  - first:
+      213: 3118161215016747297
+    second: smb1_scenery_sprites_222
+  - first:
+      213: -3474097018300213147
+    second: smb1_scenery_sprites_223
+  - first:
+      213: -5581614738751346371
+    second: smb1_scenery_sprites_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 909
+        width: 80
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ceba5ef1ad9610800000000000000
+      internalID: 1629636753994204241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 909
+        width: 48
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9d3bb7a4d399a60800000000000000
+      internalID: 7681238029569350091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 909
+        width: 64
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3555b8aefee34340800000000000000
+      internalID: 4846980401500345663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 909
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfacb5d465a9a1e20800000000000000
+      internalID: 3322137370594888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 856
+        width: 16
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea9b5c9742f89be0800000000000000
+      internalID: -1470158888956618015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 856
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538fe87bbb866f60800000000000000
+      internalID: 8027257023138595672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 856
+        width: 16
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93dff6ae2c7ab70800000000000000
+      internalID: 8910304699932817886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 856
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05715ea64680ccc0800000000000000
+      internalID: -3692804056313400051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 856
+        width: 64
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b6923e2f6ab140800000000000000
+      internalID: 4736220202341415139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 856
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987b6e844fb466b0800000000000000
+      internalID: -5303904159967512420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 856
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869ad520281953ee0800000000000000
+      internalID: -1281958531345569432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 856
+        width: 64
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61efb4db3f4258a0800000000000000
+      internalID: -6317900208856374933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 723
+        width: 128
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b144073b67b887c0800000000000000
+      internalID: -4068800592216833612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 723
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85204035ffeb641f0800000000000000
+      internalID: -1060950658380463528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 723
+        width: 64
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2839566d2bb3eee00800000000000000
+      internalID: 1075863000275325826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 723
+        width: 64
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf2cc142a716b00800000000000000
+      internalID: 820070902678092784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 723
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90aa38f40e85dc00800000000000000
+      internalID: 924801450490110109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3bcf52de9b665b0800000000000000
+      internalID: -5375404677024402444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 632
+        width: 80
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7a4408ec2afe60800000000000000
+      internalID: 7996753463365762019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 632
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab087f21f26a0dc30800000000000000
+      internalID: 4382185158543376570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 500
+        width: 62
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a892f35cb2b46b0800000000000000
+      internalID: -5311103209385129350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 500
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd46748082045b0800000000000000
+      internalID: -5386261138312470674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 500
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd718d68a5c5da110800000000000000
+      internalID: 1273775813494839259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 364
+        width: 62
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea19ed599f1e1d80800000000000000
+      internalID: -8278144321494377755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 364
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fe7a668d7eb7d0800000000000000
+      internalID: -2900743093714226857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 364
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b3d73cfc4111c0800000000000000
+      internalID: -4534758703633287236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 364
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce4a644bab63180800000000000000
+      internalID: -9135909510632379325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 364
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41041eb6c3f6d7d30800000000000000
+      internalID: 4430819913701081108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 187
+        width: 23
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a76768273ad33560800000000000000
+      internalID: 7292412152078886819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 187
+        width: 24
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49365caa27e58aa80800000000000000
+      internalID: -8455404453803760748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 187
+        width: 24
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d99f5557d414bf0800000000000000
+      internalID: -341906930354512486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 24
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ea0c9ca4634510800000000000000
+      internalID: 1532178990751213610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 187
+        width: 24
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33c422a17340560800000000000000
+      internalID: 7279003483121660851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 148
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4bc7879e32764f0800000000000000
+      internalID: -835659720198146848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed2582793b8eef20800000000000000
+      internalID: 3453851043090476515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 500
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154cb93516c609630800000000000000
+      internalID: 3931761639964787793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 500
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41071a6d93b98e0800000000000000
+      internalID: -1685690041525857108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
