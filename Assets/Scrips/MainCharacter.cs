@@ -102,8 +102,12 @@ public class MainCharacter : Character
         DataManager.instance.turnNumber--;
         SoundManarger.instance.PlaySingle(die);
         SoundManarger.instance.musicSource.mute = true;
+        Invoke("LoadScence", 3);
     }
-
+    void LoadScence()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Gameplay");
+    }
     public override void Jump()
     {
         rigid.velocity = new Vector2(0, 5);
