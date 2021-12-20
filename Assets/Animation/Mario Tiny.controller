@@ -732,44 +732,8 @@ AnimatorStateMachine:
     m_State: {fileID: -4806337550815825346}
     m_Position: {x: 470, y: 390, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: 8267318835056030712}
-    m_Position: {x: 300, y: -270, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -7164380716839952378}
-    m_Position: {x: 0, y: -270, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 8492656597157258521}
-    m_Position: {x: 340, y: -130, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -6667861337173689640}
-    m_Position: {x: -40, y: -130, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 837899879576976040}
-    m_Position: {x: 140, y: -40, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 4023090136796906750}
-    m_Position: {x: 1220, y: -290, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 2863008395072362848}
-    m_Position: {x: 820, y: -140, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 7925110687364045045}
-    m_Position: {x: 990, y: -390, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -3367105000027374829}
-    m_Position: {x: 1020, y: -60, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -4457609060792181361}
-    m_Position: {x: 1220, y: -140, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: -5967022542419790079}
     m_Position: {x: 570, y: -10, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 7392125170761539389}
-    m_Position: {x: 570, y: -140, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 8147126824878885926}
-    m_Position: {x: 820, y: -280, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -817,7 +781,6 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 7453195750033812213}
-  - {fileID: -311091415313491515}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -2448,7 +2411,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mario
+  m_Name: Mario Tiny
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Action
@@ -2456,19 +2419,19 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsSwitchBig
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Blend
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer

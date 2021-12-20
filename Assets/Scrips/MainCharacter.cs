@@ -102,7 +102,7 @@ public class MainCharacter : Character
         DataManager.instance.turnNumber--;
         SoundManarger.instance.PlaySingle(die);
         SoundManarger.instance.musicSource.mute = true;
-        Invoke("LoadScence", 3);
+        Invoke("LoadScence", 2);
     }
     void LoadScence()
     {
@@ -371,8 +371,8 @@ public class MainCharacter : Character
             if (isTiny)
             {
                 isTiny = false;
+                ChangeAnimation(AnimationState.tinyToBig);
             }
-            ChangeAnimation(AnimationState.tinyToBig);
             itemRedMushroom.Function();
             SoundManarger.instance.PlaySingle(tinyToBig);
         }
@@ -384,8 +384,8 @@ public class MainCharacter : Character
             if (!isTiny)
             {
                 isSuper = true;
+                ChangeAnimation(AnimationState.bigToSuper);
             }
-            ChangeAnimation(AnimationState.bigToSuper);
             itemPowerFlower.Function();
         }
     }
